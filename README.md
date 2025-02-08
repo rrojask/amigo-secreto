@@ -1,8 +1,9 @@
-- <img src="assets/js.png" width="30" alt="Logo de JavaScript">
-# amigo-secreto
-# Amigo Secreto 🎁
+# <img src="assets/js.png" width="25" alt="Logo de JavaScript">
 
-¡Bienvenido al repositorio de **Amigo Secreto**! Este proyecto es una aplicación web sencilla que te permite organizar un sorteo de amigos secretos. Simplemente ingresa los nombres de los participantes, y la aplicación se encargará de asignar aleatoriamente los pares.
+### :memo:Amigo Secreto 
+
+Este proyecto es una aplicación web sencilla que te permite organizar un sorteo de amigos secretos. 
+Simplemente ingresa los nombres de los participantes, y la aplicación se encargará de asignar aleatoriamente los pares.
 
 ## Características ✨
 
