@@ -1,4 +1,4 @@
-asset/js.png
+- <img src="assets/js.png" width="30" alt="Logo de JavaScript">
 # amigo-secreto
 # Amigo Secreto 🎁
 
