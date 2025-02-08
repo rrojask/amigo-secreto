@@ -1,3 +1,4 @@
+asset/js.png
 # amigo-secreto
 # Amigo Secreto 🎁
 
