@@ -18,6 +18,6 @@ Simplemente ingresa los nombres de los participantes, y la aplicación se encarg
 1. **Clona el repositorio**:
    ```bash
    git clone https://github.com/tu-usuario/amigo-secreto.git
-Herramientas y tecnologías utilizadas
+<img src="assets/design-tools.png" width="25" alt="Logo de Herramientas de Diseño"> Herramientas y tecnologías utilizadas
 - Editor de código Visual Studio Code
 - Plataforma GitHub
