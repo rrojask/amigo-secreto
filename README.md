@@ -1,4 +1,5 @@
-# <img src="assets/js.png" width="25" alt="Logo de JavaScript">
+# <img src="assets/js.png" width="25" alt="Logo de JavaScript"> <img src="assets/html.png" width="25" alt="Logo de HTML">
+
 
 ### :memo:Amigo Secreto 
 
