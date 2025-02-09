@@ -6,6 +6,8 @@
     --color-button-hover: #e55720;
     --color-text: #444444;
     --color-white: #FFFFFF;
+    --color-reset: #7c7f80fb;
+    --color-reset-hover: #205ca1;
 }
 
 /* Estilos generales */
@@ -88,8 +90,10 @@ body {
 }
 
 .button-container {
-    width: 300px;
+    display: flex;
+    gap: 20px;
     justify-content: center;
+    margin-top: 20px;
 }
 
 /* Estilos de entrada de texto */
@@ -106,13 +110,16 @@ body {
 
 /* Estilos de botón */
 button {
-    padding: 15px 30px;
+    padding: 10px 15px;
     font-family: "Inter", sans-serif;
     font-size: 16px;
     border: 2px solid #000;
     border-radius: 25px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
     cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
 }
 
 .button-add {
@@ -123,6 +130,15 @@ button {
 
 .button-add:hover {
     background-color: #a1a1a1;
+}
+
+.button-reset {
+    background-color: var(--color-reset);
+    color: var(--color-white);
+}
+
+.button-reset:hover {
+    background-color: var(--color-reset-hover);
 }
 
 /* Listas */
@@ -136,7 +152,7 @@ ul {
 
 .result-list {
     margin-top: 15px;
-    color: #0577fa;
+    color: #0760be;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
@@ -144,17 +160,12 @@ ul {
 
 /* Botón de sortear título */
 .button-draw {
-    display: flex;
-    align-items: center;
-    width: 100%;
-    padding: 10px 40px;
     color: var(--color-white);
     background-color: var(--color-button);
-    font-size: 16px;
 }
 
 .button-draw img {
-    margin-right: 40px;
+    margin-right: 10px;
 }
 
 .button-draw:hover {
