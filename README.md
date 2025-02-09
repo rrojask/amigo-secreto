@@ -21,3 +21,8 @@ Simplemente ingresa los nombres de los participantes, y la aplicación se encarg
 <img src="assets/design-tools.png" width="25" alt="Logo de Herramientas de Diseño"> Herramientas y tecnologías utilizadas
 - Editor de código Visual Studio Code
 - Plataforma GitHub
+- Html
+- CSS
+- JavaScript
+
+  Estado del proyecto: En construcción
