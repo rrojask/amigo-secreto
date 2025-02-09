@@ -17,7 +17,7 @@ Simplemente ingresa los nombres de los participantes, y la aplicación se encarg
 
 ## Cómo usar 🚀
 
-1. Accede a la aplicación a través del siguiente enlace: [Amigo Secreto App](https://rrojask)
+1. Accede a la aplicación a través del siguiente enlace: [Amigo Secreto App](https://rrojask.github.io/amigo-secreto/)
 2. Ingresa los nombres de tus amigos o familiares.
 3. Haz clic en el botón "Sortear" para asignar los amigos secretos.
 
@@ -31,7 +31,7 @@ Simplemente ingresa los nombres de los participantes, y la aplicación se encarg
   - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
 ## Estado del Proyecto ⚠️
-**En construcción**. Estamos trabajando para agregar más funcionalidades y mejorar la experiencia de usuario.
+**En construcción**. Estamos trabajando para corregir errores y mejorar la experiencia de usuario.
 
 ## :memo: Licencia
 
